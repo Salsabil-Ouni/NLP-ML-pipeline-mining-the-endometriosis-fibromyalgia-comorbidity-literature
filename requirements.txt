@@ -1,0 +1,10 @@
+python-dotenv>=1.0.1
+google-genai>=2.20.0
+tqdm>=4.66.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+bertopic>=0.16.0
+
+# only needed to regenerate the article draft/figures (scripts/build_*.py), not the core pipeline
+matplotlib>=3.9.0
+python-docx>=1.1.0

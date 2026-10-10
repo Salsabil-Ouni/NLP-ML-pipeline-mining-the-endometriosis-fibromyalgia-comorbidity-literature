@@ -1,0 +1,533 @@
+{
+  "corpus": "joint",
+  "method": "bertopic",
+  "n_documents": 91,
+  "topics": [
+    {
+      "topic_id": 0,
+      "size": 14,
+      "top_words": [
+        "pain",
+        "chronic",
+        "visceral",
+        "men",
+        "copcs",
+        "patients",
+        "hyperalgesia",
+        "data",
+        "conditions",
+        "visceral pain"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "size": 13,
+      "top_words": [
+        "ic",
+        "bps",
+        "bladder",
+        "syndrome",
+        "study",
+        "subjects",
+        "ic bps",
+        "diagnosis",
+        "association",
+        "controls"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "size": 11,
+      "top_words": [
+        "pain",
+        "pelvic",
+        "syndrome",
+        "pain syndrome",
+        "bladder",
+        "cpp",
+        "pelvic pain",
+        "chronic",
+        "gynecological",
+        "chronic pelvic"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "size": 8,
+      "top_words": [
+        "pain",
+        "pelvic",
+        "pelvic pain",
+        "hysterectomy",
+        "women",
+        "chronic",
+        "chronic pelvic",
+        "severity",
+        "diagnoses",
+        "95"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "size": 8,
+      "top_words": [
+        "migraine",
+        "headache",
+        "em",
+        "abuse",
+        "patients",
+        "neglect",
+        "childhood",
+        "comorbid",
+        "fm",
+        "conditions"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "size": 7,
+      "top_words": [
+        "central",
+        "pain",
+        "central sensitization",
+        "ml",
+        "sensitization",
+        "endometriosis",
+        "structural",
+        "pathology",
+        "patients",
+        "serum"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "size": 6,
+      "top_words": [
+        "vulvodynia",
+        "95",
+        "syndrome",
+        "class",
+        "vulvar pain",
+        "comorbidity",
+        "dyspareunia",
+        "95 ci",
+        "women",
+        "vulvar"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "size": 5,
+      "top_words": [
+        "endometriosis",
+        "sle",
+        "em",
+        "group",
+        "autoimmune",
+        "immune",
+        "patients",
+        "women",
+        "fatigue",
+        "versus"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "size": 5,
+      "top_words": [
+        "women",
+        "fibromyalgia",
+        "endometriosis",
+        "women endometriosis",
+        "endometriosis fibromyalgia",
+        "prevalence",
+        "diagnosed",
+        "36",
+        "criteria",
+        "study"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "size": 4,
+      "top_words": [
+        "pain",
+        "potential",
+        "nociceptive",
+        "levels",
+        "stress",
+        "sensory",
+        "endometriosis",
+        "colon",
+        "sensitization",
+        "role"
+      ]
+    }
+  ],
+  "document_assignments": [
+    {
+      "pmid": "42356003",
+      "topic_id": 0
+    },
+    {
+      "pmid": "42311470",
+      "topic_id": 0
+    },
+    {
+      "pmid": "42166469",
+      "topic_id": 0
+    },
+    {
+      "pmid": "41890200",
+      "topic_id": -1
+    },
+    {
+      "pmid": "41890134",
+      "topic_id": 5
+    },
+    {
+      "pmid": "41874314",
+      "topic_id": 6
+    },
+    {
+      "pmid": "41820877",
+      "topic_id": 0
+    },
+    {
+      "pmid": "41811212",
+      "topic_id": 2
+    },
+    {
+      "pmid": "41703551",
+      "topic_id": 5
+    },
+    {
+      "pmid": "41668695",
+      "topic_id": 4
+    },
+    {
+      "pmid": "41457212",
+      "topic_id": -1
+    },
+    {
+      "pmid": "40408224",
+      "topic_id": 0
+    },
+    {
+      "pmid": "40310228",
+      "topic_id": 6
+    },
+    {
+      "pmid": "40210363",
+      "topic_id": 0
+    },
+    {
+      "pmid": "40105802",
+      "topic_id": 0
+    },
+    {
+      "pmid": "39874027",
+      "topic_id": -1
+    },
+    {
+      "pmid": "39627905",
+      "topic_id": -1
+    },
+    {
+      "pmid": "39587068",
+      "topic_id": 9
+    },
+    {
+      "pmid": "39423149",
+      "topic_id": 1
+    },
+    {
+      "pmid": "39088433",
+      "topic_id": 5
+    },
+    {
+      "pmid": "38682290",
+      "topic_id": 3
+    },
+    {
+      "pmid": "38537321",
+      "topic_id": 7
+    },
+    {
+      "pmid": "38307668",
+      "topic_id": 4
+    },
+    {
+      "pmid": "38279180",
+      "topic_id": 5
+    },
+    {
+      "pmid": "38081041",
+      "topic_id": 3
+    },
+    {
+      "pmid": "37761523",
+      "topic_id": 6
+    },
+    {
+      "pmid": "37751146",
+      "topic_id": 5
+    },
+    {
+      "pmid": "37698177",
+      "topic_id": 3
+    },
+    {
+      "pmid": "37674621",
+      "topic_id": 0
+    },
+    {
+      "pmid": "37169264",
+      "topic_id": 9
+    },
+    {
+      "pmid": "36958459",
+      "topic_id": 3
+    },
+    {
+      "pmid": "35872631",
+      "topic_id": 0
+    },
+    {
+      "pmid": "35536666",
+      "topic_id": 3
+    },
+    {
+      "pmid": "35030137",
+      "topic_id": 3
+    },
+    {
+      "pmid": "34747110",
+      "topic_id": 6
+    },
+    {
+      "pmid": "34734395",
+      "topic_id": 2
+    },
+    {
+      "pmid": "34499948",
+      "topic_id": 4
+    },
+    {
+      "pmid": "34464585",
+      "topic_id": 3
+    },
+    {
+      "pmid": "34351260",
+      "topic_id": -1
+    },
+    {
+      "pmid": "33583078",
+      "topic_id": 7
+    },
+    {
+      "pmid": "33576864",
+      "topic_id": -1
+    },
+    {
+      "pmid": "33178117",
+      "topic_id": 4
+    },
+    {
+      "pmid": "32544050",
+      "topic_id": 1
+    },
+    {
+      "pmid": "31784821",
+      "topic_id": 0
+    },
+    {
+      "pmid": "31131959",
+      "topic_id": -1
+    },
+    {
+      "pmid": "31100426",
+      "topic_id": 5
+    },
+    {
+      "pmid": "30973964",
+      "topic_id": 8
+    },
+    {
+      "pmid": "30682223",
+      "topic_id": 8
+    },
+    {
+      "pmid": "29447372",
+      "topic_id": 2
+    },
+    {
+      "pmid": "29318645",
+      "topic_id": 1
+    },
+    {
+      "pmid": "29112660",
+      "topic_id": 3
+    },
+    {
+      "pmid": "28683025",
+      "topic_id": 0
+    },
+    {
+      "pmid": "28596045",
+      "topic_id": 0
+    },
+    {
+      "pmid": "28381078",
+      "topic_id": 2
+    },
+    {
+      "pmid": "27712641",
+      "topic_id": 2
+    },
+    {
+      "pmid": "27331050",
+      "topic_id": 8
+    },
+    {
+      "pmid": "26717947",
+      "topic_id": 4
+    },
+    {
+      "pmid": "26184102",
+      "topic_id": 1
+    },
+    {
+      "pmid": "25789593",
+      "topic_id": 7
+    },
+    {
+      "pmid": "25551477",
+      "topic_id": 5
+    },
+    {
+      "pmid": "24903044",
+      "topic_id": 2
+    },
+    {
+      "pmid": "24807511",
+      "topic_id": 2
+    },
+    {
+      "pmid": "24410333",
+      "topic_id": 8
+    },
+    {
+      "pmid": "23991081",
+      "topic_id": 1
+    },
+    {
+      "pmid": "23837199",
+      "topic_id": 1
+    },
+    {
+      "pmid": "23637555",
+      "topic_id": 6
+    },
+    {
+      "pmid": "23553652",
+      "topic_id": 1
+    },
+    {
+      "pmid": "23507008",
+      "topic_id": -1
+    },
+    {
+      "pmid": "26640283",
+      "topic_id": 2
+    },
+    {
+      "pmid": "23129416",
+      "topic_id": 1
+    },
+    {
+      "pmid": "23054497",
+      "topic_id": 1
+    },
+    {
+      "pmid": "22895546",
+      "topic_id": 1
+    },
+    {
+      "pmid": "22353309",
+      "topic_id": 9
+    },
+    {
+      "pmid": "22329615",
+      "topic_id": 6
+    },
+    {
+      "pmid": "21620363",
+      "topic_id": 2
+    },
+    {
+      "pmid": "21056381",
+      "topic_id": 2
+    },
+    {
+      "pmid": "19845780",
+      "topic_id": 4
+    },
+    {
+      "pmid": "19777202",
+      "topic_id": 2
+    },
+    {
+      "pmid": "18646315",
+      "topic_id": 9
+    },
+    {
+      "pmid": "17765403",
+      "topic_id": 1
+    },
+    {
+      "pmid": "17635599",
+      "topic_id": 4
+    },
+    {
+      "pmid": "17284085",
+      "topic_id": 1
+    },
+    {
+      "pmid": "16815054",
+      "topic_id": 0
+    },
+    {
+      "pmid": "16574033",
+      "topic_id": 1
+    },
+    {
+      "pmid": "16568470",
+      "topic_id": 8
+    },
+    {
+      "pmid": "15894210",
+      "topic_id": -1
+    },
+    {
+      "pmid": "15862476",
+      "topic_id": 0
+    },
+    {
+      "pmid": "15790342",
+      "topic_id": 7
+    },
+    {
+      "pmid": "12351553",
+      "topic_id": 7
+    },
+    {
+      "pmid": "11723711",
+      "topic_id": 4
+    },
+    {
+      "pmid": "11346231",
+      "topic_id": -1
+    }
+  ]
+}

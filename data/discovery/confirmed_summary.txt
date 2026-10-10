@@ -1,0 +1,88 @@
+[1.00] sim=0.69 Central sensitization / central sensitivity syndromes (CSS)
+  FM: The Central Sensitization Inventory (CSI): establishing clinically significant values for identifying central sensitivity syndromes in an outpatient chronic pain sample.
+  Endo: Central sensitization inventory in endometriosis.
+
+[0.99] sim=0.67 Nociplastic pain and central sensitization
+  FM: From fibrositis to fibromyalgia to nociplastic pain: how rheumatology helped get us here and where do we go from here?
+  Endo: Nociplastic Pain in Endometriosis: A Scoping Review.
+
+[0.95] sim=0.79 Myofascial trigger points and central sensitization
+  FM: Myofascial trigger points in migraine and tension-type headache.
+  Endo: Relating Chronic Pelvic Pain and Endometriosis to Signs of Sensitization and Myofascial Pain and Dysfunction.
+
+[0.95] sim=0.75 Myofascial trigger points and central sensitization contributing to chronic pain
+  FM: Myofascial pain syndromes and their evaluation.
+  Endo: Relating Chronic Pelvic Pain and Endometriosis to Signs of Sensitization and Myofascial Pain and Dysfunction.
+
+[0.95] sim=0.74 Myofascial trigger points and central sensitization
+  FM: Trigger points--ultrasound and thermal findings.
+  Endo: Relating Chronic Pelvic Pain and Endometriosis to Signs of Sensitization and Myofascial Pain and Dysfunction.
+
+[0.95] sim=0.74 Myofascial trigger points and central sensitization
+  FM: Fibromyalgia, myofascial pain, tender points and trigger points: splitting or lumping?
+  Endo: Relating Chronic Pelvic Pain and Endometriosis to Signs of Sensitization and Myofascial Pain and Dysfunction.
+
+[0.95] sim=0.71 nociplastic pain and central sensitization
+  FM: Nociplastic Pain: Facts, Controversies and Future Tasks.
+  Endo: Nociplastic Pain in Endometriosis: A Scoping Review.
+
+[0.95] sim=0.71 Central sensitization and somatic hyperalgesia
+  FM: Migraine and Central Sensitization: Clinical Features, Main Comorbidities and Therapeutic Perspectives.
+  Endo: Impact of visceral pain on migraine symptoms in comorbid patients: a retrospective observational study.
+
+[0.95] sim=0.70 NLRP3 inflammasome activation and downstream interleukin-1β/18 signaling
+  FM: AMPK Phosphorylation Modulates Pain by Activation of NLRP3 Inflammasome.
+  Endo: Liriodendrin alleviates endometriosis via PPARγ activation and inhibition of NLRP3 inflammasome-mediated pyroptosis.
+
+[0.95] sim=0.70 central sensitization
+  FM: Clinical and functional impact of central sensitization on patients with familial Mediterranean fever: a cross-sectional study.
+  Endo: Prevalence and Risk Factors of Central Sensitization in Women with Endometriosis.
+
+[0.95] sim=0.68 nociplastic pain and central sensitization
+  FM: The complexity of pain in inflammatory arthropathies beyond pain intensity and impact: An OMERACT initiative.
+  Endo: Nociplastic Pain in Endometriosis: A Scoping Review.
+
+[0.95] sim=0.67 Nociplastic pain and central sensitization
+  FM: Nociplastic pain: controversy of the concept.
+  Endo: Nociplastic Pain in Endometriosis: A Scoping Review.
+
+[0.92] sim=0.82 Gut-brain axis dysregulation and gut microbiota-mediated central sensitization/inflammation
+  FM: Uncovering the Hidden Link Between the Aberrant Intestinal Microbiome and Fibromyalgia.
+  Endo: The Role of the Human Microbiome in the Pathogenesis of Pain.
+
+[0.90] sim=0.88 Dysfunction and modulation of the Growth Hormone (GH) / Insulin-like Growth Factor-1 (IGF-1) signaling axis in nociception and hyperalgesia
+  FM: A Systematic Review of Growth Hormone in Pain Medicine: From Rodents to Humans.
+  Endo: Insulin-like Growth Factor-1 (IGF-1) Related Drugs in Pain Management.
+
+[0.90] sim=0.79 Chronic overlapping pain conditions (COPCs) and centralized pain phenotype
+  FM: A MAPP Network Case-control Study of Urological Chronic Pelvic Pain Compared With Nonurological Pain Conditions.
+  Endo: CHRONIC OVERLAPPING PAIN CONDITIONS IN REFRACTORY UROLOGIC CHRONIC PELVIC PAIN SYNDROME (UCPPS):COMORBIDITY PATTERNS, ILLNESS BURDEN, AND TREATMENT IMPLICATIONS.
+
+[0.90] sim=0.78 Gut-brain axis dysregulation and microbiota-mediated central sensitization involving neuroinflammation (glial cell activation and immune signaling).
+  FM: Bidirectional Communication of the Gut-Brain Axis in Pain Regulation: From Microbial Metabolites to Neuroinflammation.
+  Endo: The Role of the Human Microbiome in the Pathogenesis of Pain.
+
+[0.90] sim=0.74 central sensitization and generalized somatic hyperalgesia
+  FM: Impact of migraine on fibromyalgia symptoms.
+  Endo: Impact of visceral pain on migraine symptoms in comorbid patients: a retrospective observational study.
+
+[0.90] sim=0.68 NLRP3 inflammasome activation, pyroptosis, and oxidative stress pathways
+  FM: Altered Circulating Biomarkers of Purinergic Signaling, Inflammasome-Related Pathways, Pyroptosis, and Oxidative Stress in Fibromyalgia.
+  Endo: Liriodendrin alleviates endometriosis via PPARγ activation and inhibition of NLRP3 inflammasome-mediated pyroptosis.
+
+[0.85] sim=0.73 Chronic Overlapping Pain Conditions (COPCs) and Central Sensitization
+  FM: Attributes Germane to Temporomandibular Disorders and Their Associations with Five Chronic Overlapping Pain Conditions.
+  Endo: Are gastrointestinal, gynecological and urogenital chronic overlapping pain conditions (COPCs) predisposing or perpetuating factors for orofacial pain (OFP)? A systematic review.
+
+[0.85] sim=0.70 Chronic Overlapping Pain Conditions and widespread pain vulnerability
+  FM: Differences in reported medical conditions between myogenous and arthrogenous TMD patients and its relevance to the general practitioner.
+  Endo: Prevalence of Temporomandibular Disorders in Adult Women with Endometriosis.
+
+[0.85] sim=0.69 Central sensitization and chronic overlapping pain conditions (COPCs)
+  FM: Comparison of deep phenotyping features of UCPPS with and without Hunner lesion: A MAPP-II Research Network Study.
+  Endo: CHRONIC OVERLAPPING PAIN CONDITIONS IN REFRACTORY UROLOGIC CHRONIC PELVIC PAIN SYNDROME (UCPPS):COMORBIDITY PATTERNS, ILLNESS BURDEN, AND TREATMENT IMPLICATIONS.
+
+[0.85] sim=0.69 central sensitization / disturbance of central pain processing
+  FM: Somatosensory profiles in subgroups of patients with myogenic temporomandibular disorders and Fibromyalgia Syndrome.
+  Endo: Prevalence of Temporomandibular Disorders in Adult Women with Endometriosis.
+

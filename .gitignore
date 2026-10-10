@@ -1,0 +1,21 @@
+# secrets -- never commit
+.env
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+
+# large, easily re-fetched raw corpora (regenerate with pubmed_fetch.py)
+data/raw/
+
+# audit byproducts (regenerate with audit_corpus.py)
+data/raw/*_audit_flagged.json
+
+# manuscript drafts (not code -- kept locally, not archived here)
+article_draft.docx
+article_draft_with_figures.docx
+
+# editor/OS
+.DS_Store
+Thumbs.db
